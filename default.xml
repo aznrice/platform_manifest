@@ -395,7 +395,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
-  <project path="platform_manifest" name="IllusionProject/platform_manifest" remote="github" revision="jb" />
+  <project path="manifest" name="IllusionProject/platform_manifest" remote="github" revision="jb" />
 
   <!-- Vendors for Illusion -->
   <project path="vendor/illusion" name="IllusionProject/android_vendor_illusion" remote="github" revision="jb" />
